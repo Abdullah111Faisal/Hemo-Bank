@@ -1,0 +1,2 @@
+# Hemo-Bank
+The goal of this project is to create and update an online blood bank administration system. Blood transfusion safety and availability is a major problem in Bahrain, which is working hard to build a world-class healthcare system for its inhabitants. To do so, a well-functioning blood bank system is necessary. The system also intends to encourage citizens to donate blood by providing services such as online donation appointments and blood donation pickup at their homes.
