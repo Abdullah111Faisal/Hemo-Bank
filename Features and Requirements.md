@@ -27,6 +27,5 @@ The users can then login with the unique id and password assigned during registr
  
 # Requirements
 
-### 1. Mobile application requires an active internet connection.
-### 2. 
+1. Mobile application requires an active internet connection.
  
