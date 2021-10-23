@@ -1,7 +1,7 @@
 # Features
 
 ### 1. Registration and login
- The users are categorized into 3 types i.e. The admin, the hospital/clinic staff, and the donors. All users must register in the system as per their type to access the facilities provided by the system.
+ The users are categorized into 3 types i.e. The admin, the hospital/clinic staff, and the donors. All users must register in the app as per their type to access the facilities provided by the application.
 The users can then login with the unique id and password assigned during registration.
 
  ### 2. Booking blood test appointments 
@@ -14,7 +14,7 @@ The users can then login with the unique id and password assigned during registr
  The admin can search, sort, add, update or delete any records related to donors and hospitals and blood inventory as well as blood bags.
  
  ### 5. Request blood
- The hospital can request for specific blood group blood bags by placing a request through the system. 
+ The hospital can request for specific blood group blood bags by placing a request through the application. 
  
  ### 6. Booking blood donation appointment
  The system provides facilities for the eligible donor to choose blood donation date, time and method. 
@@ -23,7 +23,7 @@ The users can then login with the unique id and password assigned during registr
  The results can be viewed by the donor. The result of blood test reports will decide the eligibility of the donor to donate blood.
  
  ### 8. Receive Notifications
- The system should notify the admin whenever a donor books an appointment and when a hospital requests blood. The hospitals will get confirmation notifications. Donors will receive notifications regarding the eligibility test reports. 
+ The app should notify the admin whenever a donor books an appointment and when a hospital requests blood. The hospitals will get confirmation notifications. Donors will receive notifications regarding the eligibility test reports. 
  
 # Requirements
 
