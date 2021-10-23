@@ -1,7 +1,6 @@
 # Features
 
-# Requirements
- ### 1. Registration and login
+### 1. Registration and login
  The users are categorized into 3 types i.e. The admin, the hospital/clinic staff, and the donors. All users must register in the system as per their type to access the facilities provided by the system.
 The users can then login with the unique id and password assigned during registration.
 
@@ -26,4 +25,8 @@ The users can then login with the unique id and password assigned during registr
  ### 8. Receive Notifications
  The system should notify the admin whenever a donor books an appointment and when a hospital requests blood. The hospitals will get confirmation notifications. Donors will receive notifications regarding the eligibility test reports. 
  
+# Requirements
 
+### 1. Mobile application requires an active internet connection.
+### 2. 
+ 
