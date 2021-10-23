@@ -1,7 +1,7 @@
 # Features
 
 # Requirements
- ### 1. Registration/ login
+ ### 1. Registration and login
  The users are categorized into 3 types i.e. The admin, the hospital/clinic staff, and the donors. All users must register in the system as per their type to access the facilities provided by the system.
 The users can then login with the unique id and password assigned during registration.
 
