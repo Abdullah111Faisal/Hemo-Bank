@@ -5,3 +5,5 @@ An open source software to create and manage an online blood bank administration
 This system makes it easier for hospitals to check the available and needed blood types. Likewise, there will be blood donors’ registration, thus, ensuring that blood transfusion services will be safe and secured. The system will be of great help to all users, donors, hospital staff, administration ensuring a better healthcare system. The system allows the blood bank to make inventories of their blood bags online, thus, allowing each hospital to check the availability of blood bags anytime. Likewise, proper management of blood donors ensures that the expected blood transfusion services will be safe and secured. 
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
+<a href="https://github.com/main/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/main/total.svg" alt="total downloads"></a>
