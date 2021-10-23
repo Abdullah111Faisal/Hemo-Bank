@@ -6,4 +6,4 @@ This system makes it easier for hospitals to check the available and needed bloo
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-[![Github All Releases](https://img.shields.io/github/downloads/<FaizaFaisal>/<Hemo-Bank>/total.svg)]()
+![GitHub all releases](https://img.shields.io/github/downloads/FaizaFaisal/Hemo-Bank/total?style=plastic)
